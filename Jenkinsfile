@@ -9,7 +9,7 @@ pipeline {
     }
 
     environment {
-        ORG_NAME = "deors"
+        ORG_NAME = "agredain"
         APP_NAME = "Agredain"
         APP_CONTEXT_ROOT = "/"
         APP_LISTENING_PORT = "7070"
